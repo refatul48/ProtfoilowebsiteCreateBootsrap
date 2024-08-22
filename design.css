@@ -1,0 +1,26 @@
+
+
+.banner{
+  position: absolute;
+  box-sizing: border-box;
+  float: left;
+}
+ .banner-text {
+  position: absolute;
+  top: 50px;
+  font-size: 30px;
+  
+  
+ 
+  
+
+  
+}
+.img{
+  
+  height: 400px;
+  width: 400px;
+  padding-left: 50px;
+  font-style: italic;
+}
+
